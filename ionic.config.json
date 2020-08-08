@@ -1,0 +1,13 @@
+{
+  "name": "FUNsia",
+  "v3": true,
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "https://apidev.singaporeair.com/appchallenge/checkin/getpassenger"
+    }
+  ],
+  "integrations": {},
+  "type": "ionic-angular",
+  "app_id": "e414e2bb"
+}
